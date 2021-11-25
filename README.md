@@ -25,7 +25,7 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 Como vemos en la imagen la Function App es creada con exito
 
-![](images/solucion/checkcreation.png)
+![](images/solucion/checkcreation.PNG)
 
 2. Instale la extensión de **Azure Functions** para Visual Studio Code.
 
@@ -39,7 +39,7 @@ Como vemos en la imagen la Function App es creada con exito
 
 Ahora podeos ver que la app se desplego con exito en azure ya que nos empieza a mostrar metricas del consumo 
 
-![](images/solucion/metrica1.png)
+![](images/solucion/metrica1.PNG)
 
 
 4. Dirijase al portal de Azure y pruebe la function.
@@ -144,11 +144,11 @@ Los precios pueden variar en función del tipo de contrato suscrito con Microsof
 
 El plan de consumo de Azure Functions se factura en función del consumo de recursos y las ejecuciones por segundo. Los precios del plan de consumo incluyen una concesión gratuita mensual de 1 millones de solicitudes y 400.000 GB-segundos de consumo de recursos por suscripción en el modelo de precios de pago por uso, para todas las aplicaciones de funciones de esa suscripción. 
 
-![](images/solucion/pre1.png)
+![](images/solucion/pre1.PNG)
 
 
 El plan Azure Functions Premium proporciona un rendimiento mejorado y se factura por segundo en función del número de vCPU/s y de GB/s que consuman sus funciones premium. Los clientes también puede ejecutar Functions dentro de su plan de App Service a las tarifas normales del plan de App Service.
 
-![](images/solucion/pre2.png)
+![](images/solucion/pre2.PNG)
 
 
